@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/HomeworkOne.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>17552</length>                 
+      <used>1428</used>                     
+      <free>16124</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>4096</length>                 
+      <used>12</used>                     
+      <free>4084</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
